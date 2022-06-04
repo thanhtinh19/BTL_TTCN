@@ -1,7 +1,7 @@
 # BTL_TTCN
 Website bán nước hoa ASP.NET
 # Cách sử dụng:
-Bước 1: Clone project về
+Bước 1: Clone project về <br>
 Bước 2: Restore file TinhdauDB.bak
 Bước 3: Chỉnh sửa 2 file:
 - Mở file Web.config: BTL_Nhom13/BTL_Nhom13/Web.config, sửa server name của sqlserver các bạn đang chạy
